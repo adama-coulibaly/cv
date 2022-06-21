@@ -31,8 +31,10 @@ body
 }
 .textProfil
 {
-    position:  relative; display: flex;
-    flex-direction: column; align-items: center;
+    position:  relative; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding-bottom: 20px; border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 .textProfil .profil
@@ -285,10 +287,7 @@ width: 25px;
      
         grid-template-columns: repeat(1,1fr);
     }
-    /* .competence .box
-    {
-        grid-template-columns: repeat(1,1fr);
-    } */
+  
 }
 
 
